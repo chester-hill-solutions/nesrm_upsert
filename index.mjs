@@ -3,4 +3,5 @@ export const handler = (payload) => {
   //search for a matching row in supabase
   //go through every key and consolidate
   //upsert
+  //return
 };
