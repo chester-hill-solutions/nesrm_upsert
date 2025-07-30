@@ -1,6 +1,7 @@
 {
   "response": 200,
   "payload": {
+    "id": 1,
     "firstname": "saihaan",
     "surname": "syed",
     "email": "saihaansyedprofiles@gmail.com",
@@ -20,8 +21,8 @@
     "ballot3": "Joe Rogan",
     "comms_consent": "true",
     "signup_consent": "true",
-    "signed_up": "true",
-    "member": "true",
+    "signup_submitted": "false",
+    "member": "false",
     "organizer": "AndrewGoodridge",
     "language": "Bangla"
   }
